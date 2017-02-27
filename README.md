@@ -1,1 +1,1 @@
-# Publication-Subscription-Module-Patter
+# Publication-Subscription-Module-Pattern
